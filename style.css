@@ -3,7 +3,7 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-    background: #E9E8EF;
+    background: transparent;
   }
   
   
@@ -259,6 +259,7 @@ background: none;
   color: #567AC5;
 }
 .image img{
+  
    margin: 0px 4px;
 }
 
@@ -372,11 +373,11 @@ background: none;
     line-height: 50px;
   }
   .sub22 h1{
-    font-size: 85px;
-    line-height: 93px;
+    font-size: 75px;
+    line-height: 87px;
   }
   .content3 h2{
-    font-size: 38px;
+    font-size: 35px;
     line-height: 45px;
   }
   .sub21 a{
@@ -402,7 +403,7 @@ background: none;
   margin: 40px 24px !important;
 }
 .sub12{
-  padding-left: 70vw;
+  padding-left: 64vw;
 }
  }
 
@@ -412,6 +413,6 @@ background: none;
     margin: 15px 0px 15px 40px ;
   }
   .content4 h4{
-    margin: 30px 65px;
+    margin: 30px 40px;
   }
  }
